@@ -1,0 +1,22 @@
+{
+    "name": "Crypto Beetle 2",
+    "description": "Crypto Beetle",
+    "image": "https://olive-hidden-lungfish-156.mypinata.cloud/ipfs/QmWw8sXPJo2r85gQGiJSGNWYS3rYVa9VPcSEzpca6HBJ4X",
+    "attributes": [{
+        "trait_type": "Generation",
+        "value": 1
+      },
+      {
+        "trait_type": "Dots",
+        "value": 6
+      },
+      {
+        "trait_type": "Antenna",
+        "value": "large"
+      },
+      {
+        "trait_type": "Background",
+        "value": "space"
+      }
+    ]
+}
